@@ -1,114 +1,144 @@
 <div align="center">
 
-# Arambh Chitriv  
+# 👋 Hi, I'm Arambh Chitriv  
 
-### SFMC Developer • Data Analyst • Marketing Automation Engineer  
+### 💼 SFMC Developer | 📊 Data Analyst | 💻 Tech Enthusiast  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=700&lines=Marketing+Automation+Engineer;Data+Analytics+Developer;SQL+%7C+Python+%7C+Power+BI;SFMC+Specialist;Building+Data+Driven+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=700&lines=SFMC+Developer;Data+Analyst;Python+Developer;SQL+Expert;Power+BI+Specialist;Marketing+Automation" />
 
 ---
 
-📍 Pune, India | 💼 Data Science Graduate | 📊 Banking & FinTech Analytics  
+<img src="https://img.shields.io/badge/Focus-Data%20Driven%20Solutions-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Banking%20%26%20Analytics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Data%20Analyst-green?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## ABOUT
+## 👨‍💻 About Me
 
-I am a Data Science graduate working as an SFMC Developer and Data Analyst, focused on building data-driven marketing and analytics systems.
+I am a **Data Science graduate** working as an **SFMC Developer and Data Analyst**, with strong exposure to banking, fintech, and analytics projects.
 
-My work revolves around transforming raw data into meaningful insights and automating customer engagement journeys using Salesforce Marketing Cloud and analytics tools.
-
-I enjoy solving business problems using data, improving customer lifecycle strategies, and building scalable reporting systems.
+I specialize in combining **marketing automation + data analytics + business intelligence** to build end-to-end customer and data solutions.
 
 ---
 
-## CORE WORK
+## 🛠 Tech Stack
 
-- Customer Journey Design using SFMC  
-- SQL-based Data Extraction & Segmentation  
-- Power BI Dashboard Development  
-- Python (Pandas) for Data Analysis  
-- Email Campaign Automation & Reporting  
-- KPI Tracking for Business Decision Making  
+### 📢 Marketing & CRM
+<p>
+<img src="https://img.icons8.com/color/48/salesforce.png"/>
+</p>
 
----
-
-## TECH STACK
-
-### Data & Analytics
-SQL • Python • Pandas • NumPy • Excel • Power BI
-
-### Marketing Automation
-Salesforce Marketing Cloud (SFMC) • Journey Builder • Automation Studio • Email Studio • AMPscript
-
-### Development
-HTML • CSS • Basic Email Template Development
+SFMC (Journey Builder, Automation Studio, Email Studio, Mobile Studio)
 
 ---
 
-## SELECTED PROJECTS
+### 📊 Data Analytics
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+</p>
 
-### Banking Customer Intelligence System
-
-Designed and developed a customer analytics system for banking use cases focusing on lifecycle journeys and engagement tracking.
-
-**Key Work:**
-- Built customer segmentation logic using SQL  
-- Designed onboarding, retention, and EMI reminder journeys in SFMC  
-- Created Power BI dashboards for KPI tracking and performance monitoring  
-- Analyzed customer behavior patterns for targeted campaigns  
-
-**Stack:** SQL • SFMC • Power BI • Python  
-**Impact:** Improved customer targeting and engagement insights for banking workflows  
+SQL | Python (Pandas) | Power BI | Excel | Data Cleaning | Reporting
 
 ---
 
-### Healthcare Engagement Automation System
+### 💻 Development Skills
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
 
-Developed an automated communication system for healthcare patients using SFMC.
-
-**Key Work:**
-- Created automated email and SMS journeys for patients  
-- Implemented AMPscript-based personalization logic  
-- Designed lifecycle-based engagement workflows  
-- Tracked campaign performance metrics for optimization  
-
-**Stack:** SFMC • AMPscript • Email Studio • Automation Studio  
-**Impact:** Improved patient communication consistency and engagement efficiency  
+HTML | CSS | Basic Frontend for Email Templates
 
 ---
 
-## INSIGHTS
-
-- Strong interest in customer behavior analytics  
-- Focus on combining marketing automation with data engineering  
-- Passionate about building end-to-end data systems  
-- Always improving business decision-making using analytics  
+### ⚙️ Other Skills
+- Data Visualization  
+- Business Analysis  
+- Campaign Analytics  
+- KPI Reporting  
+- Problem Solving  
 
 ---
 
-## GITHUB STATS
+## 📊 Projects
+
+---
+
+## 🏦 Banking Customer Analytics System
+
+<p>
+<img src="https://img.icons8.com/fluency/48/bank.png"/>
+</p>
+
+### 📌 Overview
+Built end-to-end banking customer engagement and analytics system combining SFMC + Data Analysis.
+
+---
+
+### 🛠 Tech Stack
+SQL | SFMC | Power BI | Python
+
+---
+
+### 🎯 What I Did
+- Designed customer journeys (onboarding, EMI reminders, retention)
+- Performed SQL-based segmentation
+- Built Power BI dashboards for KPI tracking
+- Analyzed customer behavior patterns
+
+---
+
+### 📊 Proof / Credentials
+<img src="YOUR_POWERBI_IMAGE_LINK" width="650"/>
+
+---
+
+## 🏥 Healthcare Engagement System
+
+<p>
+<img src="https://img.icons8.com/fluency/48/hospital.png"/>
+</p>
+
+### 📌 Overview
+Automated patient communication system using Email & SMS campaigns.
+
+---
+
+### 🎯 What I Did
+- Built automation workflows in SFMC  
+- Designed Email + SMS journeys  
+- Used AMPscript for personalization  
+- Performed campaign performance tracking  
+
+---
+
+### 📊 Proof / Credentials
+<img src="YOUR_EMAIL_IMAGE_LINK" width="650"/>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=radical" width="48%" />
 
 </div>
 
 ---
 
-## CONTACT
+## 📬 Contact Me
 
 📧 Email: arambhchitriv.sfmc@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 
 ---
 
-<div align="center">
-
-⚡ Building scalable marketing + data systems that turn raw data into business impact  
-
-</div>
+## ⚡ Fun Fact
+I enjoy building both **data systems and customer engagement journeys** 📊🚀
