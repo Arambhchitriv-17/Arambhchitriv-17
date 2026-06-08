@@ -136,7 +136,7 @@ Automated patient communication system using Email & SMS campaigns.
 ## 📬 Contact Me
 
 📧 Email: arambhchitriv.sfmc@gmail.com  
-🔗 LinkedIn: your-link  
+🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 
 ---
 
