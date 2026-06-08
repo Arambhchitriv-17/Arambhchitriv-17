@@ -92,6 +92,5 @@ Automated patient communication system using Salesforce Marketing Cloud.
 
 ---
 
-## ⚡ Closing
-
-I focus on building **data-driven customer engagement systems that improve business outcomes.**
+## ⚡ Fun Fact
+I enjoy building both **data systems and customer engagement journeys** 📊🚀
