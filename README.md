@@ -38,7 +38,7 @@ Power BI | Tableau | Excel
 
 <div align="center">
 
-<img src="https://i.imgur.com/8QfKQvM.png" width="750"/>
+<img src="https://img.magnific.com/free-vector/payment-card-electronic-funds-transfer-colorful-cartoon-characters-holding-plastic-credit-card-banking-credit-deposit-contactless-payment-system_335657-842.jpg?t=st=1780895834~exp=1780899434~hmac=ad593e171f67cc0fe42f3a4f062124c76f5ceb557f05d5428fe6897bac20c31b&w=1480" width="750"/>
 
 </div>
 
