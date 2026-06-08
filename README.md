@@ -1,50 +1,36 @@
 <div align="center">
 
-# **ARAMBH CHITRIV**
-## SFMC Developer | Data Analyst | Marketing Automation Specialist  
-### Transforming Customer Data into Automated Business Growth
+# 👋 Hi, I'm Arambh Chitriv  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=📊+Data+Meets+Marketing+Automation;🚀+Building+Customer+Journey+Systems;⚙️+SFMC+%7C+SQL+%7C+Power+BI;💡+Turning+Data+into+Decisions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=160&section=header&text=SFMC%20%7C%20Data%20Analyst%20%7C%20Automation&fontSize=28&fontColor=ffffff" />
 
----
-
-> 📊 **I specialize in converting customer data into automated marketing journeys and measurable business impact**  
-> 🚀 **Focused on SFMC automation, analytics dashboards, and data-driven decision systems**
+### 💼 SFMC Developer | 📊 Data Analyst | ⚙️ Marketing Automation Specialist  
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hello! I am **Arambh Chitriv**, a Data Analyst & SFMC Developer passionate about building systems where **data drives marketing automation and business decisions**.
-
-I work on:
-- Customer journey automation using **Salesforce Marketing Cloud**
-- Data analysis using **SQL & Python**
-- Business dashboards using **Power BI**
-- Campaign optimization using **performance metrics**
+SFMC Developer and Data Analyst with experience in Banking and Healthcare domains.  
+I build **customer journeys, automation workflows, and analytics dashboards** using Salesforce Marketing Cloud, SQL, and Power BI.
 
 ---
 
-## 🛠️ Technical Arsenal (Live Stack)
+## 🧠 Tech Stack
 
-<div align="center">
+**Programming & Data:**  
+SQL | Python (Pandas) | AMPscript | HTML/CSS  
 
-<img src="https://skillicons.dev/icons?i=salesforce,mysql,python,pandas,html,css,git,github&theme=light" />
+**SFMC:**  
+Journey Builder | Automation Studio | Email Studio | Mobile Studio | Data Extensions  
 
-<br><br>
-
-<img src="https://img.shields.io/badge/SFMC-Marketing%20Cloud-blue?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-informational?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-orange?style=for-the-badge&logo=powerbi" />
-
-</div>
+**Analytics Tools:**  
+Power BI | Tableau | Excel  
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Projects
 
 ---
 
@@ -52,18 +38,19 @@ I work on:
 
 <div align="center">
 
-<img src="https://img.magnific.com/free-vector/payment-card-electronic-funds-transfer-colorful-cartoon-characters-holding-plastic-credit-card-banking-credit-deposit-contactless-payment-system_335657-842.jpg" width="750"/>
+<img src="https://img.magnific.com/free-vector/payment-card-electronic-funds-transfer-colorful-cartoon-characters-holding-plastic-credit-card-banking-credit-deposit-contactless-payment-system_335657-842.jpg?t=st=1780895834~exp=1780899434~hmac=ad593e171f67cc0fe42f3a4f062124c76f5ceb557f05d5428fe6897bac20c31b&w=1480" width="750"/>
 
 </div>
 
-**Project Overview:**  
-Designed an end-to-end customer engagement system using SFMC + SQL + Power BI to improve customer interaction and retention.
+**Description:**  
+Built an end-to-end banking customer engagement system using SFMC + SQL + Power BI.
 
-**Key Impact:**
-- Identified customer segments using SQL-based behavioral analysis  
-- Built automated onboarding, EMI reminder, and engagement journeys  
-- Improved campaign performance tracking using Power BI dashboards  
-- Enabled data-driven marketing decisions using KPIs (CTR, conversion rate)
+**Key Work:**
+- Customer onboarding & retention journeys  
+- EMI reminder automation  
+- Credit card engagement campaigns  
+- SQL-based segmentation  
+- Power BI KPI dashboards (CTR, Open Rate, Conversion Rate)  
 
 ---
 
@@ -75,59 +62,37 @@ Designed an end-to-end customer engagement system using SFMC + SQL + Power BI to
 
 </div>
 
-**Project Overview:**  
+**Description:**  
 Automated patient communication system using Salesforce Marketing Cloud.
 
-**Key Impact:**
-- Built email and SMS automation workflows  
-- Created appointment & medication reminder journeys  
-- Implemented AMPscript personalization logic  
-- Tracked engagement performance using dashboards  
+**Key Work:**
+- Email & SMS journey automation  
+- Appointment & medication reminder workflows  
+- AMPscript-based personalization  
+- Campaign performance tracking  
+- Automation Studio workflows  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=radical" width="48%" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📬 Contact
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arambhchitriv-17&theme=react-dark&hide_border=true" />
-
-</div>
+- Email: arambhchitriv.sfmc@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 
 ---
 
-## 🤝 Let’s Connect
+## ⚡ Fun Fact
+I enjoy building both **data systems and customer engagement journeys** 📊🚀
 
-<div align="center">
-
-📧 Email: arambhchitriv.sfmc@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
-💻 GitHub: https://github.com/Arambhchitriv-17  
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Arambhchitriv-17&style=for-the-badge&color=00D9FF" />
-
-</div>
-
----
-
-## ⚡ Final Line
-
-<div align="center">
-
-> **Turning customer data into automation, insights into impact, and marketing into measurable growth.**
-
-</div>
+Better live effects
