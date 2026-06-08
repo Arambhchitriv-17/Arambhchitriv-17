@@ -16,9 +16,9 @@
 
 <div align="center">
 
-🎓 Data Science Graduate • 💼 SFMC + Data Analytics • 🏦 Banking Domain  
-📊 Building dashboards, automation workflows & customer journeys  
-⚙️ Turning raw data into business impact  
+🎓 Data Science Graduate • 💼 SFMC + Data Analytics • 🏦 Banking Domain Experience  
+📊 I design dashboards, automation workflows & customer journeys  
+⚙️ I turn raw data into business decisions  
 
 </div>
 
@@ -26,54 +26,19 @@
 
 ## 🧠 Tech Stack
 
-### 📢 Salesforce & Marketing Cloud
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="60"/>
-<img src="https://img.icons8.com/color/96/cloud.png" width="60"/>
-<img src="https://img.icons8.com/fluency/96/email-open.png" width="60"/>
-<img src="https://img.icons8.com/color/96/automation.png" width="60"/>
-
-<br>
-
-SFMC | Journey Builder | Automation Studio | Email Studio | AMPscript  
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SFMC-Marketing%20Automation-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Reporting-green?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 📊 Data Analytics & BI
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-
-<br>
-
-Python | SQL | Pandas | Power BI | Excel | Data Visualization  
-
-</div>
-
----
-
-### 💻 Web & Email Development
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-<img src="https://img.icons8.com/color/96/newsletter.png" width="60"/>
-
-<br>
-
-HTML | CSS | Email Templates | Responsive Design  
-
-</div>
-
----
-
-## 🏆 Featured Projects
+## 🏆 Featured Projects (Visual Showcase)
 
 ---
 
@@ -81,56 +46,49 @@ HTML | CSS | Email Templates | Responsive Design
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/bank.png" width="80"/>
-
-**Tech Stack**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="55"/>
-
-<br><br>
-
-📌 Customer segmentation using SQL  
-📌 SFMC journey automation (onboarding, EMI alerts)  
-📌 Power BI KPI dashboards  
-📌 Behavioral analytics for retention  
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-banking-fintech-flaticons-lineal-color-flat-icons.png" width="120"/>
 
 <br>
 
-📊 Dashboard Preview  
-<img src="https://i.imgur.com/8QfKQvM.png" width="650"/>
+<img src="https://i.imgur.com/8QfKQvM.png" width="700"/>
 
 </div>
+
+**Project Overview**
+- Built end-to-end banking analytics system  
+- Designed customer segmentation model using SQL  
+- Created Power BI dashboards for KPI tracking  
+- Developed SFMC journeys for customer lifecycle automation  
+
+**Key Output**
+- Customer retention insights  
+- EMI default prediction patterns  
+- Engagement scoring model  
 
 ---
 
-### 🏥 Healthcare Engagement System
+### 🏥 Healthcare Engagement Automation System
 
 <div align="center">
 
-<img src="https://img.icons8.com/fluency/96/hospital.png" width="80"/>
-
-**Tech Stack**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="55"/>
-<img src="https://img.icons8.com/color/48/email.png" width="45"/>
-<img src="https://img.icons8.com/color/48/sms.png" width="45"/>
-
-<br><br>
-
-📌 Automated patient communication flows  
-📌 Personalized email + SMS journeys  
-📌 AMPscript dynamic content personalization  
-📌 Campaign performance tracking  
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-hospital-healthcare-flaticons-lineal-color-flat-icons.png" width="120"/>
 
 <br>
 
-📊 Workflow Preview  
-<img src="https://i.imgur.com/3bQZ4aD.png" width="650"/>
+<img src="https://i.imgur.com/3bQZ4aD.png" width="700"/>
 
 </div>
+
+**Project Overview**
+- Automated patient communication system  
+- Built multi-channel engagement (Email + SMS)  
+- Personalized content using AMPscript  
+- Campaign performance monitoring system  
+
+**Key Output**
+- Higher engagement rates  
+- Reduced manual communication load  
+- Improved patient response tracking  
 
 ---
 
@@ -164,10 +122,10 @@ HTML | CSS | Email Templates | Responsive Design
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Closing Note
 
 <div align="center">
 
-I build systems where **data, automation & customer experience come together** 🚀  
+Turning **data → dashboards → decisions → business impact** 🚀  
 
 </div>
