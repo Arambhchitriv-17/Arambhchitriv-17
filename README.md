@@ -2,164 +2,143 @@
 
 # 👋 Hi, I'm Arambh Chitriv  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=850&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;SQL+%7C+Python+%7C+Power+BI;Building+Customer+Engagement+Systems" />
+### 💼 SFMC Developer | 📊 Data Analyst | 💻 Tech Enthusiast  
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=700&lines=SFMC+Developer;Data+Analyst;Python+Developer;SQL+Expert;Power+BI+Specialist;Marketing+Automation" />
 
 ---
 
-### 💼 SFMC Developer | 📊 Data Analyst | ⚙️ Marketing Automation Enthusiast  
-
-<img src="https://img.shields.io/badge/Data%20Driven-Analytics%20Mindset-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Domain-Banking%20%26%20FinTech-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Customer%20Engagement%20Systems-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Data%20Driven%20Solutions-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Banking%20%26%20Analytics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Data%20Analyst-green?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">✨ ─────────────────────────── ✨</div>
-
 ## 👨‍💻 About Me
 
-💡 I am a Data Science graduate specializing in **SFMC Development + Data Analytics + Marketing Automation**
+I am a **Data Science graduate** working as an **SFMC Developer and Data Analyst**, with strong exposure to banking, fintech, and analytics projects.
 
-📊 I build end-to-end systems that combine:
-- Customer journey automation (SFMC)
-- SQL-based data processing & segmentation
-- Power BI dashboards for business insights
-
-🎯 My goal is simple:  
-> Turn raw data into intelligent customer engagement systems that drive business impact.
+I specialize in combining **marketing automation + data analytics + business intelligence** to build end-to-end customer and data solutions.
 
 ---
 
-<div align="center">✨ ─────────────────────────── ✨</div>
+## 🛠 Tech Stack
 
-## 📢 Salesforce Marketing Cloud (SFMC)
-
-<p align="center">
-
-<img src="https://img.icons8.com/fluency/96/cloud-sync.png"/>
-<img src="https://img.icons8.com/fluency/96/email-open.png"/>
-<img src="https://img.icons8.com/fluency/96/automation.png"/>
-<img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
-
+### 📢 Marketing & CRM
+<p>
+<img src="https://img.icons8.com/color/48/salesforce.png"/>
 </p>
 
-### 🚀 SFMC Expertise
-
-- Journey Builder (Customer Lifecycle Automation)
-- Email Studio (Personalized Campaigns)
-- Automation Studio (SQL + Scheduled Jobs)
-- AMPscript (Dynamic Personalization)
-- Tracking & Reporting (Engagement KPIs)
+SFMC (Journey Builder, Automation Studio, Email Studio, Mobile Studio)
 
 ---
-
-<div align="center">✨ ─────────────────────────── ✨</div>
-
-## ⚙️ Tech Stack
 
 ### 📊 Data Analytics
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://img.icons8.com/color/96/power-bi.png"/>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
 </p>
+
+SQL | Python (Pandas) | Power BI | Excel | Data Cleaning | Reporting
 
 ---
 
 ### 💻 Development Skills
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
----
-
-## 🚀 Featured Projects
+HTML | CSS | Basic Frontend for Email Templates
 
 ---
 
-### 🏦 Banking Customer Analytics System
+### ⚙️ Other Skills
+- Data Visualization  
+- Business Analysis  
+- Campaign Analytics  
+- KPI Reporting  
+- Problem Solving  
 
-<p align="center">
-<img src="https://img.icons8.com/fluency/96/bank.png"/>
+---
+
+## 📊 Projects
+
+---
+
+## 🏦 Banking Customer Analytics System
+
+<p>
+<img src="https://img.icons8.com/fluency/48/bank.png"/>
 </p>
 
-📌 Built a customer intelligence system combining SFMC + Data Analytics
-
-- 📊 SQL-based customer segmentation  
-- 📈 Power BI KPI dashboards  
-- 🔄 SFMC journey automation flows  
-- 📉 Behavioral analysis of banking users  
+### 📌 Overview
+Built end-to-end banking customer engagement and analytics system combining SFMC + Data Analysis.
 
 ---
 
-### 🏥 Healthcare Engagement Automation System
+### 🛠 Tech Stack
+SQL | SFMC | Power BI | Python
 
-<p align="center">
-<img src="https://img.icons8.com/fluency/96/hospital.png"/>
+---
+
+### 🎯 What I Did
+- Designed customer journeys (onboarding, EMI reminders, retention)
+- Performed SQL-based segmentation
+- Built Power BI dashboards for KPI tracking
+- Analyzed customer behavior patterns
+
+---
+
+### 📊 Proof / Credentials
+<img src="YOUR_POWERBI_IMAGE_LINK" width="650"/>
+
+---
+
+## 🏥 Healthcare Engagement System
+
+<p>
+<img src="https://img.icons8.com/fluency/48/hospital.png"/>
 </p>
 
-📌 Automated patient engagement using SFMC
-
-- 📩 Email + SMS journey automation  
-- ⚙️ AMPscript-based personalization  
-- 📊 Campaign performance tracking  
-- 📉 Engagement optimization strategies  
+### 📌 Overview
+Automated patient communication system using Email & SMS campaigns.
 
 ---
 
-<div align="center">✨ ─────────────────────────── ✨</div>
+### 🎯 What I Did
+- Built automation workflows in SFMC  
+- Designed Email + SMS journeys  
+- Used AMPscript for personalization  
+- Performed campaign performance tracking  
 
-## 📊 GitHub Stats
+---
+
+### 📊 Proof / Credentials
+<img src="YOUR_EMAIL_IMAGE_LINK" width="650"/>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=radical" width="48%" />
 
 </div>
 
 ---
 
-## 🏆 Skills Snapshot
+## 📬 Contact Me
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SFMC-Automation-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Data%20Queries-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-Dashboards-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Marketing-Automation-purple?style=for-the-badge"/>
-
-</p>
+📧 Email: arambhchitriv.sfmc@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 
 ---
 
-## 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:arambhchitriv.sfmc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arambh-chitriv-26b1a4250">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-## ⚡ Closing Note
-
-<p align="center">
-
-💡 Turning data into customer journeys that create real business impact.
-
-</p>
+## ⚡ Fun Fact
+I enjoy building both **data systems and customer engagement journeys** 📊🚀
