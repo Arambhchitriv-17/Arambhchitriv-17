@@ -6,11 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=📊+Data+Meets+Marketing+Automation;🚀+Building+Customer+Journey+Systems;⚙️+SFMC+%7C+SQL+%7C+Power+BI;💡+Turning+Data+into+Decisions" />
 
-</div>
-
 ---
-
-<div align="center">
 
 > 📊 **I specialize in converting customer data into automated marketing journeys and measurable business impact**  
 > 🚀 **Focused on SFMC automation, analytics dashboards, and data-driven decision systems**
@@ -37,9 +33,7 @@ I work on:
 
 <img src="https://skillicons.dev/icons?i=salesforce,mysql,python,pandas,html,css,git,github&theme=light" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/SFMC-Marketing%20Cloud-blue?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-Data%20Querying-informational?style=for-the-badge&logo=mysql" />
@@ -122,7 +116,7 @@ Automated patient communication system using Salesforce Marketing Cloud.
 🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 💻 GitHub: https://github.com/Arambhchitriv-17  
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Arambhchitriv-17&style=for-the-badge&color=00D9FF" />
 
@@ -132,4 +126,8 @@ Automated patient communication system using Salesforce Marketing Cloud.
 
 ## ⚡ Final Line
 
+<div align="center">
+
 > **Turning customer data into automation, insights into impact, and marketing into measurable growth.**
+
+</div>
