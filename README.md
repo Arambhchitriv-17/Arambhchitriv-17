@@ -58,7 +58,7 @@ Built an end-to-end banking customer engagement system using SFMC + SQL + Power 
 
 <div align="center">
 
-<img src="https://i.imgur.com/3bQZ4aD.png" width="750"/>
+<img src="https://mobisoftinfotech.com/resources/wp-content/uploads/2018/07/Banner-1.png" width="750"/>
 
 </div>
 
