@@ -1,32 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm Arambh Chitriv  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=180&section=header&text=Arambh%20Chitriv&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=160&section=header&text=SFMC%20%7C%20Data%20Analyst%20%7C%20Automation&fontSize=28&fontColor=ffffff" />
-
-### 💼 SFMC Developer | 📊 Data Analyst | ⚙️ Marketing Automation Specialist  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;Power+BI+Dashboard+Builder;SQL+%7C+AMPscript+%7C+Python+Lover" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
 SFMC Developer and Data Analyst with experience in Banking and Healthcare domains.  
-I build **customer journeys, automation workflows, and analytics dashboards** using Salesforce Marketing Cloud, SQL, and Power BI.
+I build **customer journeys, automation workflows, and analytics dashboards** using Salesforce Marketing Cloud, SQL, Python, and Power BI.
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ Live Tech Stack
 
-**Programming & Data:**  
-SQL | Python (Pandas) | AMPscript | HTML/CSS  
+<p align="center">
 
-**SFMC:**  
-Journey Builder | Automation Studio | Email Studio | Mobile Studio | Data Extensions  
+<img src="https://img.shields.io/badge/SFMC-Journey%20Builder-blue?style=flat-square&logo=salesforce" />
+<img src="https://img.shields.io/badge/SQL-Advanced-informational?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-orange?style=flat-square&logo=powerbi" />
+<img src="https://img.shields.io/badge/AMPscript-Email%20Automation-purple?style=flat-square" />
 
-**Analytics Tools:**  
-Power BI | Tableau | Excel  
+</p>
 
 ---
 
@@ -38,18 +37,18 @@ Power BI | Tableau | Excel
 
 <div align="center">
 
-<img src="https://img.magnific.com/free-vector/payment-card-electronic-funds-transfer-colorful-cartoon-characters-holding-plastic-credit-card-banking-credit-deposit-contactless-payment-system_335657-842.jpg?t=st=1780895834~exp=1780899434~hmac=ad593e171f67cc0fe42f3a4f062124c76f5ceb557f05d5428fe6897bac20c31b&w=1480" width="750"/>
+<img src="https://img.magnific.com/free-vector/payment-card-electronic-funds-transfer-colorful-cartoon-characters-holding-plastic-credit-card-banking-credit-deposit-contactless-payment-system_335657-842.jpg?t=st=1780895834~exp=1780899434~hmac=ad593e171f67cc0fe42f3a4f062124c76f5ceb557f05d5428fe6897bac20c31c&w=1480" width="750"/>
 
 </div>
 
 **Description:**  
-Built an end-to-end banking customer engagement system using SFMC + SQL + Power BI.
+End-to-end customer engagement system using SFMC + SQL + Power BI.
 
-**Key Work:**
-- Customer onboarding & retention journeys  
+**Key Features:**
+- Customer onboarding journeys  
 - EMI reminder automation  
-- Credit card engagement campaigns  
-- SQL-based segmentation  
+- Credit card campaigns  
+- SQL segmentation logic  
 - Power BI KPI dashboards (CTR, Open Rate, Conversion Rate)  
 
 ---
@@ -65,32 +64,62 @@ Built an end-to-end banking customer engagement system using SFMC + SQL + Power 
 **Description:**  
 Automated patient communication system using Salesforce Marketing Cloud.
 
-**Key Work:**
-- Email & SMS journey automation  
-- Appointment & medication reminder workflows  
-- AMPscript-based personalization  
-- Campaign performance tracking  
+**Key Features:**
+- Email + SMS automation  
+- Appointment reminders  
+- AMPscript personalization  
 - Automation Studio workflows  
+- Campaign tracking dashboards  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (LIVE)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 📬 Contact
+## 📈 Activity Graph
 
-- Email: arambhchitriv.sfmc@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arambhchitriv-17&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: arambhchitriv.sfmc@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/arambh-chitriv-26b1a4250  
 
 ---
 
 ## ⚡ Fun Fact
+
 I enjoy building both **data systems and customer engagement journeys** 📊🚀
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:00C2FF&height=120&section=footer"/>
+
+</div>
