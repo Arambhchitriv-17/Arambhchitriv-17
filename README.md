@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=180&section=header&text=Arambh%20Chitriv&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;Power+BI+Dashboard+Builder;SQL+%7C+AMPscript+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;Power+BI+Dashboard+Builder;SQL+%7C+AMPscript+%7C+Python+Lover" />
 
 </div>
 
@@ -15,17 +15,21 @@ I build **customer journeys, automation workflows, and analytics dashboards** us
 
 ---
 
-## ⚡ Live Tech Stack
+## ⚡ Live Tech Stack (BIG LOGOS)
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/SFMC-Journey%20Builder-blue?style=flat-square&logo=salesforce" />
-<img src="https://img.shields.io/badge/SQL-Advanced-informational?style=flat-square&logo=mysql" />
-<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Power%20BI-Dashboards-orange?style=flat-square&logo=powerbi" />
-<img src="https://img.shields.io/badge/AMPscript-Email%20Automation-purple?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=salesforce,mysql,python,pandas,html,css,git,github&theme=light" />
 
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SFMC-Salesforce%20Marketing%20Cloud-blue?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/AMPscript-Email%20Automation-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
 
 ---
 
