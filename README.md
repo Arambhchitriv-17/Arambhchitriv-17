@@ -2,123 +2,102 @@
 
 # 👋 Hi, I'm Arambh Chitriv  
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=180&section=header&text=SFMC%20%7C%20Data%20Analyst%20%7C%20AI%20Enthusiast&fontSize=30&fontColor=ffffff" />
+
 ### 💼 SFMC Developer | 📊 Data Analyst | 💻 Tech Enthusiast  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=700&lines=SFMC+Developer;Data+Analyst;Python+Developer;SQL+Expert;Power+BI+Specialist;Marketing+Automation" />
-
----
-
-<img src="https://img.shields.io/badge/Focus-Data%20Driven%20Solutions-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Domain-Banking%20%26%20Analytics-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Data%20Analyst-green?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Python+Developer;SQL+Expert;Power+BI+Specialist;Marketing+Automation+Engineer" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **Data Science graduate** working as an **SFMC Developer and Data Analyst**, with strong exposure to banking, fintech, and analytics projects.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I specialize in combining **marketing automation + data analytics + business intelligence** to build end-to-end customer and data solutions.
+- 🎓 Data Science Graduate  
+- 💼 SFMC Developer + Data Analyst  
+- 🏦 Experience in Banking & Fintech Analytics  
+- 📊 Passionate about Data + Marketing Automation  
+- ⚙️ Building end-to-end customer intelligence systems  
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
 ### 📢 Marketing & CRM
 <p>
-<img src="https://img.icons8.com/color/48/salesforce.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="60"/>
 </p>
-
-SFMC (Journey Builder, Automation Studio, Email Studio, Mobile Studio)
+SFMC (Journey Builder | Automation Studio | Email Studio | Mobile Studio)
 
 ---
 
-### 📊 Data Analytics
+### 📊 Data Analytics & BI
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 </p>
 
-SQL | Python (Pandas) | Power BI | Excel | Data Cleaning | Reporting
+SQL | Python | Pandas | Power BI | Excel | Data Visualization
 
 ---
 
-### 💻 Development Skills
+### 💻 Web & Email Dev
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
 </p>
 
-HTML | CSS | Basic Frontend for Email Templates
+HTML | CSS | Email Template Development | AMPscript
 
 ---
 
 ### ⚙️ Other Skills
-- Data Visualization  
-- Business Analysis  
-- Campaign Analytics  
-- KPI Reporting  
-- Problem Solving  
+- 📊 KPI Dashboards  
+- 📈 Campaign Analytics  
+- 🧩 Customer Segmentation  
+- 🧠 Business Intelligence  
+- 🔍 Data Storytelling  
 
 ---
 
-## 📊 Projects
+## 🏆 Featured Projects
 
 ---
 
-## 🏦 Banking Customer Analytics System
+### 🏦 Banking Customer Analytics System
 
-<p>
-<img src="https://img.icons8.com/fluency/48/bank.png"/>
-</p>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350"/>
 
-### 📌 Overview
-Built end-to-end banking customer engagement and analytics system combining SFMC + Data Analysis.
+**Tech Stack:** SQL | SFMC | Power BI | Python  
 
----
+- Customer journey automation (onboarding, EMI alerts, retention)
+- SQL-based segmentation engine
+- Power BI KPI dashboards
+- Behavioral analytics for banking users
 
-### 🛠 Tech Stack
-SQL | SFMC | Power BI | Python
-
----
-
-### 🎯 What I Did
-- Designed customer journeys (onboarding, EMI reminders, retention)
-- Performed SQL-based segmentation
-- Built Power BI dashboards for KPI tracking
-- Analyzed customer behavior patterns
+📊 Dashboard Preview  
+<img src="https://i.imgur.com/8QfKQvM.png" width="650"/>
 
 ---
 
-### 📊 Proof / Credentials
-<img src="YOUR_POWERBI_IMAGE_LINK" width="650"/>
+### 🏥 Healthcare Engagement Automation System
 
----
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="350"/>
 
-## 🏥 Healthcare Engagement System
+**Tech Stack:** SFMC | AMPscript | Email Studio | SMS APIs  
 
-<p>
-<img src="https://img.icons8.com/fluency/48/hospital.png"/>
-</p>
+- Automated patient communication flows  
+- Personalized email + SMS journeys  
+- Engagement tracking dashboards  
+- Campaign performance optimization  
 
-### 📌 Overview
-Automated patient communication system using Email & SMS campaigns.
-
----
-
-### 🎯 What I Did
-- Built automation workflows in SFMC  
-- Designed Email + SMS journeys  
-- Used AMPscript for personalization  
-- Performed campaign performance tracking  
-
----
-
-### 📊 Proof / Credentials
-<img src="YOUR_EMAIL_IMAGE_LINK" width="650"/>
+📊 Workflow Preview  
+<img src="https://i.imgur.com/3bQZ4aD.png" width="650"/>
 
 ---
 
@@ -133,6 +112,12 @@ Automated patient communication system using Email & SMS campaigns.
 
 ---
 
+## 🔥 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+---
+
 ## 📬 Contact Me
 
 📧 Email: arambhchitriv.sfmc@gmail.com  
@@ -141,4 +126,4 @@ Automated patient communication system using Email & SMS campaigns.
 ---
 
 ## ⚡ Fun Fact
-I enjoy building both **data systems and customer engagement journeys** 📊🚀
+I love turning **raw data into customer experiences that actually drive revenue** 🚀
