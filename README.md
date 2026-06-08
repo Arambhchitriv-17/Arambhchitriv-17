@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=180&section=header&text=Arambh%20Chitriv&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;Power+BI+Dashboard+Builder;SQL+%7C+AMPscript+%7C+Python+Lover" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=SFMC+Developer;Data+Analyst;Marketing+Automation+Specialist;Power+BI+Dashboard+Builder;SQL+%7C+AMPscript+%7C+Python" />
 
 </div>
 
