@@ -252,7 +252,7 @@ Developed a multi-channel patient communication and engagement system for a heal
 </table>
 
 <details>
-<summary><b>📈 KPIs Tracked</b></summary>
+<summary><b>Click here to view 📈 KPIs Tracked</b></summary>
 <br/>
 
 | Metric | Description |
