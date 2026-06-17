@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Arambh%20Chitriv&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20|%20Data%20Analyst%20|%20Marketing%20Automation&descSize=18&descAlignY=75"/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Arambh%20Chitriv&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation%20Specialist&descSize=18&descAlignY=75"/>
 
 <br/>
