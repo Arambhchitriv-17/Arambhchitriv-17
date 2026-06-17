@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Arambh%20Chitriv&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation&descSize=18&descAlignY=75"/>
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=250&section=header&text=Arambh%20Chitriv&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation&descSize=20&descAlignY=75"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Salesforce+Marketing+Cloud+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL;Banking+%26+Healthcare+Domain+Expert;Journey+Builder+%7C+Automation+Studio+%7C+AMPscript"/>
+<!-- DYNAMIC TYPING CAROUSEL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Salesforce+Marketing+Cloud+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL;Banking+%26+Healthcare+Domain+Expert;Journey+Builder+%7C+Automation+Studio+%7C+AMPscript"/>
 
 <br/>
 
+<!-- FLOATING PROFILE COUNTER & CALL TO ACTIONS -->
 <img src="https://komarev.com/ghpvc/?username=Arambhchitriv-17&label=Profile+Views&style=for-the-badge&color=0055FF"/>
 &nbsp;
 <a href="mailto:arambhchitriv.sfmc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -20,7 +23,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 I bridge the gap between **marketing automation** and **data analytics**. Based in Nagpur, India, I specialize in building lifecycle customer journeys within the **FinTech/Banking** and **Healthcare** ecosystems.
 
@@ -35,22 +38,24 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 ## 🛠️ Tech Stack
 
 ### ☁️ Salesforce Marketing Cloud
-
-![Journey Builder](https://img.shields.io/badge/Journey_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Automation Studio](https://img.shields.io/badge/Automation_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
-![AMPscript](https://img.shields.io/badge/AMPscript-00A1E0?style=for-the-badge)
-![Email Studio](https://img.shields.io/badge/Email_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Mobile Studio](https://img.shields.io/badge/Mobile_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
-![Contact Builder](https://img.shields.io/badge/Contact_Builder-00A1E0?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Journey_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMPscript-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Email_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile_Studio-0176D3?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contact_Builder-00A1E0?style=for-the-badge"/>
+</p>
 
 ### 🗄️ Data, Analytics & Web
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
 ---
 
@@ -104,17 +109,24 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 
 ---
 
-## 📊 Git Analytics
+## 📊 Live System Diagnostics & Analytics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!-- LIVE GITHUB METRICS GRID -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight"/>
+<!-- LIVE STREAK STATS ENGINE -->
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight"/>
+
+<br/><br/>
+
+<!-- REAL-TIME GIT ACTIVITY WAVES -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arambhchitriv-17&theme=tokyo-night"/>
 
 </div>
 
@@ -134,10 +146,11 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arambh-chitriv-26b1a4250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br><br>
+<br/><br/>
 
 *Looking for a specialized SFMC Developer or Marketing Automation Analyst? Let's connect!*
 
+<!-- METRIC WAVE FOOTER ACCENT -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:00C2FF&height=120&section=footer"/>
 
 </div>
