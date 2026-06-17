@@ -2,15 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Arambh%20Chitriv&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20|%20Data%20Analyst%20|%20Marketing%20Automation&descSize=18&descAlignY=75"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Salesforce+Marketing+Cloud+Developer;Journey+Builder+|+Automation+Studio+|+AMPscript;SQL+|+Power+BI+|+Python;Banking+FinTech+&+Healthcare+Domain"/>
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=220&section=header&text=Arambh%20Chitriv&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation%20Specialist&descSize=18&descAlignY=75"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Salesforce+Marketing+Cloud+Developer;Journey+Builder+%7C+Automation+Studio+%7C+AMPscript;SQL+%7C+Power+BI+%7C+Python;Banking+%26+Healthcare+Domain"/>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Arambhchitriv-17&label=Profile+Views&style=for-the-badge&color=0055FF"/>
+
+&nbsp;
 
 <a href="mailto:arambhchitriv.sfmc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/arambh-chitriv-26b1a4250">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,23 +32,25 @@
 
 # 👋 About Me
 
-🚀 SFMC Developer & Data Analyst with experience building customer engagement and analytics solutions.
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-🎯 Expertise in:
+🚀 SFMC Developer & Data Analyst passionate about creating intelligent customer engagement solutions.
 
-- Salesforce Marketing Cloud Development
-- Email & SMS Journey Automation
-- SQL Data Segmentation
-- AMPscript Personalization
-- Power BI Reporting & KPI Dashboards
+🔹 Salesforce Marketing Cloud Development  
+🔹 Email & SMS Journey Automation  
+🔹 SQL Audience Segmentation  
+🔹 AMPscript Personalization  
+🔹 Power BI Dashboards & Analytics  
 
 🏦 Domains: Banking | FinTech | Healthcare
+
+<br clear="right"/>
 
 ---
 
 # 🧠 Tech Stack
 
-### Salesforce Marketing Cloud
+## ☁️ Salesforce Marketing Cloud
 
 ![Journey Builder](https://img.shields.io/badge/Journey_Builder-00A1E0?style=for-the-badge)
 ![Automation Studio](https://img.shields.io/badge/Automation_Studio-0176D3?style=for-the-badge)
@@ -47,7 +59,9 @@
 ![AMPscript](https://img.shields.io/badge/AMPscript-00A1E0?style=for-the-badge)
 ![Content Builder](https://img.shields.io/badge/Content_Builder-0176D3?style=for-the-badge)
 
-### Data & Analytics
+---
+
+## 📊 Data & Analytics
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
@@ -57,27 +71,35 @@
 
 ---
 
-# 💼 Experience
+## 💻 Tools
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+
+---
+# 💼 Work Experience
 
 ## 🔷 Ceptra Infotech Pvt. Ltd.
-**SFMC Developer Intern | Aug 2025 – Present**
+### SFMC Developer Intern | Aug 2025 – Present | 📍 Nagpur
 
-✔ Built Email & SMS customer journeys  
-✔ Created SQL audience segmentation  
-✔ Developed AMPscript personalization  
-✔ Automated workflows using Automation Studio  
-✔ Designed Power BI campaign dashboards  
-✔ Conducted QA testing & campaign validation  
+✔ Built omni-channel Email & SMS customer journeys using Journey Builder  
+✔ Developed SQL audience segmentation and customer filtering logic  
+✔ Implemented AMPscript personalization for dynamic customer communication  
+✔ Automated campaign workflows using Automation Studio  
+✔ Designed Power BI dashboards to monitor campaign KPIs  
+✔ Performed QA testing, journey validation, and campaign deployment  
 
 ---
 
-## 🔷 Tars Technologies  
-**Data Analyst Intern | Jan 2025 – Jul 2025**
+## 🔷 Tars Technologies
+### Data Analyst Intern | Jan 2025 – Jul 2025 | 📍 Nagpur
 
-✔ Built interactive Power BI dashboards  
-✔ Performed SQL analysis and data cleaning  
-✔ Used Python (Pandas) for preprocessing  
-✔ Generated business insights and KPI reports  
+✔ Developed interactive Power BI dashboards and KPI reports  
+✔ Performed SQL-based data analysis, cleaning, and validation  
+✔ Used Python (Pandas) for preprocessing and extracting insights  
+✔ Improved reporting efficiency through optimized data workflows  
 
 ---
 
@@ -85,73 +107,46 @@
 
 ## 🏦 Banking Customer Engagement System
 
-**Tech:** SFMC • SQL • AMPscript • Power BI
+<div align="center">
 
-### Campaigns
-- Customer Onboarding
-- Credit Card Activation
-- EMI Reminders
-- Personalized Offers
-- Retention & Re-engagement
+<img src="https://img.shields.io/badge/Domain-Banking%20%7C%20FinTech-0055FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tech-SFMC%20%7C%20SQL%20%7C%20AMPscript%20%7C%20PowerBI-00C2FF?style=for-the-badge"/>
 
-### KPIs
-📈 Open Rate • CTR • Conversion Rate • Activation Rate
+</div>
+
+### 🚀 Campaigns Automated
+
+- 💳 Credit Card Activation
+- 📨 Customer Onboarding
+- 💰 EMI Payment Reminders
+- 🎯 Personalized Product Offers
+- 🔄 Retention & Re-engagement Journeys
+
+### 📈 KPIs Monitored
+
+Open Rate • CTR • Conversion Rate • Activation Rate • Customer Retention
 
 ---
 
 ## 🏥 Healthcare Patient Engagement System
 
-**Tech:** SFMC • Automation Studio • Mobile Studio
-
-### Journeys
-- Appointment Reminders
-- Medication Adherence
-- Patient Follow-ups
-- Feedback Surveys
-
-### KPIs
-📈 Attendance Rate • SMS Engagement • NPS Score
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Domain-Healthcare-00AA55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tech-SFMC%20%7C%20AutomationStudio%20%7C%20MobileStudio-00C2FF?style=for-the-badge"/>
 
 </div>
 
+### 🚀 Journeys Automated
+
+- 🏥 Appointment Reminders
+- 💊 Medication Adherence Campaigns
+- 📋 Post-Visit Follow-ups
+- ⭐ Patient Feedback & NPS Surveys
+- 🔁 Missed Appointment Re-engagement
+
+### 📈 KPIs Monitored
+
+Attendance Rate • SMS Engagement • Patient Satisfaction • Re-booking Rate
+
 ---
-
-# 🎓 Education
-
-🎓 **B.Tech – Data Science**  
-G H Raisoni College of Engineering & Management, Nagpur  
-2021 – 2025
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:arambhchitriv.sfmc@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arambh-chitriv-26b1a4250">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-⭐ Open to SFMC Developer | Marketing Automation | Data Analyst Opportunities
-
-</div>
