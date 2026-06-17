@@ -123,7 +123,6 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 ## 🎓 Education & Credentials
 
 * **B.Tech — Data Science** | G H Raisoni College of Engineering & Management, Nagpur *(2021 – 2025)*
-* **Salesforce Trailhead** | Active platform member pursuing Marketing Cloud paths.
 
 ---
 
