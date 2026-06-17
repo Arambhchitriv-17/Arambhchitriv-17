@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=250&section=header&text=Arambh%20Chitriv&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation&descSize=20&descAlignY=75"/>
+<!-- LIVE DYNAMIC EFFECT: API-Generated Waving Header with CSS Fade-In Tracking -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0055FF&height=240&section=header&text=Arambh%20Chitriv&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=SFMC%20Developer%20%7C%20Data%20Analyst%20%7C%20Marketing%20Automation&descSize=18&descAlignY=75"/>
 
 <br/>
 
-<!-- DYNAMIC TYPING CAROUSEL -->
+<!-- LIVE DYNAMIC EFFECT: Dynamic Server-Side Typing Script (Cycles infinitely) -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Salesforce+Marketing+Cloud+Developer;Data+Analyst+%7C+Power+BI+%7C+SQL;Banking+%26+Healthcare+Domain+Expert;Journey+Builder+%7C+Automation+Studio+%7C+AMPscript"/>
 
 <br/>
 
-<!-- FLOATING PROFILE COUNTER & CALL TO ACTIONS -->
+<!-- LIVE DYNAMIC EFFECT: Live Page-View Tracking Meter & Real-time Active Badges -->
 <img src="https://komarev.com/ghpvc/?username=Arambhchitriv-17&label=Profile+Views&style=for-the-badge&color=0055FF"/>
 &nbsp;
 <a href="mailto:arambhchitriv.sfmc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -23,6 +23,7 @@
 
 ## 👋 About Me
 
+<!-- LIVE DYNAMIC EFFECT: Smooth Loops Rendering Asset -->
 <img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 I bridge the gap between **marketing automation** and **data analytics**. Based in Nagpur, India, I specialize in building lifecycle customer journeys within the **FinTech/Banking** and **Healthcare** ecosystems.
@@ -98,13 +99,6 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 * **The Build:** Automated messaging hub synchronizing appointment confirmation triggers and clinical intake records.
 * **Execution Strategy:** Automated file extract decoders handling strict exclusion lists alongside custom SMS trigger replies.
 
-<details>
-<summary><b>🔍 View Journey Types & Key Metrics Tracked</b></summary>
-
-| Automated Journeys | Target Metrics |
-| :--- | :--- |
-| • Pre-Appointment SMS Alerts (48h/2h)<br>• Daily Medication Adherence Reminders<br>• Post-Discharge Feedback Loops (NPS) | • Total No-Show Rate Reductions<br>• Patient Response Intake Volume<br>• Missed Appointment Re-booking Rate |
-
 </details>
 
 ---
@@ -113,19 +107,19 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 
 <div align="center">
 
-<!-- LIVE GITHUB METRICS GRID -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!-- LIVE DYNAMIC EFFECT: Live Profile Analytics Matrix Blocks (Updates on GitHub commit event hooks) -->
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Arambhchitriv-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambhchitriv-17&layout=compact&theme=tokyonight"/>
 
 <br/><br/>
 
-<!-- LIVE STREAK STATS ENGINE -->
+<!-- LIVE DYNAMIC EFFECT: Real-Time Development Streak Processor Graph -->
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arambhchitriv-17&theme=tokyonight"/>
 
 <br/><br/>
 
-<!-- REAL-TIME GIT ACTIVITY WAVES -->
+<!-- LIVE DYNAMIC EFFECT: Vectorized SVG Polyline Activity Waveform Tracking Engine -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arambhchitriv-17&theme=tokyo-night"/>
 
 </div>
@@ -150,7 +144,7 @@ I bridge the gap between **marketing automation** and **data analytics**. Based 
 
 *Looking for a specialized SFMC Developer or Marketing Automation Analyst? Let's connect!*
 
-<!-- METRIC WAVE FOOTER ACCENT -->
+<!-- LIVE DYNAMIC EFFECT: Bottom Wave Sync Accent -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0055FF,100:00C2FF&height=120&section=footer"/>
 
 </div>
